@@ -1,0 +1,80 @@
+<template>
+  <div class="aboutUniversity">
+    <div class="container">
+      <div class="row">
+        <div class="col-9">
+          <div class="aboutUniversity-left">
+            <div class="image">
+              <div class="carousel-wrapper">
+                <div v-swiper:mySwiper="options">
+                  <div class="swiper-wrapper">
+                    <div class="img-warpper swiper-slide">
+                      <img :src="img" />
+                    </div>
+                  </div>
+                  <!-- <div class="swiper-pagination swiper-pagination-bullets"></div> -->
+                </div>
+              </div>
+            </div>
+
+            <div class="content">
+              <h2>Research</h2>
+              <p style="padding-top: 16px">
+                Founded in 1956, the Management Development Institute of
+                Singapore (MDIS) is Singapore’s oldest not-for-profit
+                professional institute for lifelong learning. MDIS has two main
+                subsidiaries: Management Development Institute of Singapore Pte
+                Ltd which oversees its Singapore academic operations, and MDIS
+                International Pte Ltd which focuses on MDIS’ globalisation
+                strategy. MDIS offers internationally-accredited courses in
+                Business and Management, Engineering, Fashion and Jewellery
+                Design, Health and Nursing, Information Technology, Languages
+                and Education, Life Sciences, Media and Communications,
+                Psychology, Tourism and Hospitality Management, and Safety and
+                Environmental Management. These programmes are offered in
+                collaboration with renowned universities in the United Kingdom.
+                MDIS is EduTrust certified, attesting to its exemplary education
+                and business excellence standards. The institute was first
+                awarded the certification in 2010 – subsequently renewed for
+                four years in 2014 and 2018. MDIS was also one of the first
+                Private Education Institutions (PEIs) to be registered under the
+                Enhanced Registration Framework. The institute achieved a double
+                win at the Singapore Prestige Brand Award (SPBA); it was one of
+                four winners as well as the overall winner of the SPBA -
+                Heritage Brands 2018. In 2017, MDIS was ranked 4th for the
+                Enterprise 50 Award for its contributions in spurring
+                Singapore’s economy. In 2019, MDIS had successfully transited
+                from Singapore Service Class to Singapore Quality Class
+                (Service) and is honoured to be one of the winners for the
+                Corporate Merit Award at the Biennial Singapore Health Award.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-3">
+          <aboutSidebar />
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  data() {
+    return {
+      options: {
+        slidesPerView: 1,
+        loop: true,
+        pagination: {
+          el: ".swiper-pagination",
+        },
+      },
+      img: require("~/assets/images/aboutUniversity.jpg"),
+    };
+  },
+  mounted() {
+    //   this.img = 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png'
+  },
+};
+</script>

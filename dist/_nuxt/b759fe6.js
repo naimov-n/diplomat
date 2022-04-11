@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{552:function(n,e,t){"use strict";t.r(e);var l={},c=t(68),component=Object(c.a)(l,(function(){var n=this,e=n.$createElement;return(n._self._c||e)("div",{staticClass:"about-page"},[n._v("\n    About index page\n")])}),[],!1,null,null,null);e.default=component.exports}}]);
