@@ -2,9 +2,9 @@
   <div class="homePage">
     <homeBanner/>
     <homeAboutUniversity/>
-    <homeJourney/> 
+    <homeJourney/>
     <homeFaculties/>
-    <homeNews/>
+    <homeNews/> 
     <homeContactUs/>
     <homeEvents/>
   </div>

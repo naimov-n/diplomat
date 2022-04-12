@@ -1,0 +1,50 @@
+{
+  "Card": {
+    "description": "Auto imported from components/card/index.vue"
+  },
+  "FormStep1": {
+    "description": "Auto imported from components/form/step1.vue"
+  },
+  "FormStep2": {
+    "description": "Auto imported from components/form/step2.vue"
+  },
+  "FormStep3": {
+    "description": "Auto imported from components/form/step3.vue"
+  },
+  "AboutSidebar": {
+    "description": "Auto imported from components/about/Sidebar.vue"
+  },
+  "HomeAboutUniversity": {
+    "description": "Auto imported from components/home/AboutUniversity.vue"
+  },
+  "HomeBanner": {
+    "description": "Auto imported from components/home/Banner.vue"
+  },
+  "HomeContactUs": {
+    "description": "Auto imported from components/home/ContactUs.vue"
+  },
+  "HomeEvents": {
+    "description": "Auto imported from components/home/Events.vue"
+  },
+  "HomeFaculties": {
+    "description": "Auto imported from components/home/Faculties.vue"
+  },
+  "HomeJourney": {
+    "description": "Auto imported from components/home/Journey.vue"
+  },
+  "HomeNews": {
+    "description": "Auto imported from components/home/News.vue"
+  },
+  "HomeRecursiveMenu": {
+    "description": "Auto imported from components/home/RecursiveMenu.vue"
+  },
+  "LayoutsFooter": {
+    "description": "Auto imported from components/layouts/Footer.vue"
+  },
+  "LayoutsHeader": {
+    "description": "Auto imported from components/layouts/Header.vue"
+  },
+  "LayoutsPageHeader": {
+    "description": "Auto imported from components/layouts/PageHeader.vue"
+  }
+}

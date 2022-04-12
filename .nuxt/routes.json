@@ -1,0 +1,674 @@
+[
+  {
+    "name": "about___uz",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_16082354"
+  },
+  {
+    "name": "contacts___uz",
+    "path": "/contacts",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\contacts\\\\index.vue",
+    "chunkName": "pages/contacts/index",
+    "_name": "_56f4a604"
+  },
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3a12e771"
+  },
+  {
+    "name": "form___uz",
+    "path": "/form",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\form\\\\index.vue",
+    "chunkName": "pages/form/index",
+    "_name": "_53428926"
+  },
+  {
+    "name": "news___uz",
+    "path": "/news",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index",
+    "_name": "_ad6da404"
+  },
+  {
+    "name": "research___uz",
+    "path": "/research",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\research\\\\index.vue",
+    "chunkName": "pages/research/index",
+    "_name": "_bf85a294"
+  },
+  {
+    "name": "index___ru",
+    "path": "/ru",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3a12e771"
+  },
+  {
+    "name": "about-mission___uz",
+    "path": "/about/mission",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\mission\\\\index.vue",
+    "chunkName": "pages/about/mission/index",
+    "_name": "_32593372"
+  },
+  {
+    "name": "about-partners___uz",
+    "path": "/about/partners",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\partners\\\\index.vue",
+    "chunkName": "pages/about/partners/index",
+    "_name": "_8fbdd36a"
+  },
+  {
+    "name": "about-policies___uz",
+    "path": "/about/policies",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\policies\\\\index.vue",
+    "chunkName": "pages/about/policies/index",
+    "_name": "_713df886"
+  },
+  {
+    "name": "about-rector___uz",
+    "path": "/about/rector",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\rector\\\\index.vue",
+    "chunkName": "pages/about/rector/index",
+    "_name": "_012275af"
+  },
+  {
+    "name": "about-structure___uz",
+    "path": "/about/structure",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\structure\\\\index.vue",
+    "chunkName": "pages/about/structure/index",
+    "_name": "_d30667aa"
+  },
+  {
+    "name": "about-team___uz",
+    "path": "/about/team",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\team\\\\index.vue",
+    "chunkName": "pages/about/team/index",
+    "_name": "_12fe794e"
+  },
+  {
+    "name": "academic-faculties___uz",
+    "path": "/academic/faculties",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\academic\\\\faculties\\\\index.vue",
+    "chunkName": "pages/academic/faculties/index",
+    "_name": "_5d44c370"
+  },
+  {
+    "name": "contacts-contact___uz",
+    "path": "/contacts/contact",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\contacts\\\\contact\\\\index.vue",
+    "chunkName": "pages/contacts/contact/index",
+    "_name": "_af0daa94"
+  },
+  {
+    "name": "contacts-form___uz",
+    "path": "/contacts/form",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\contacts\\\\form\\\\index.vue",
+    "chunkName": "pages/contacts/form/index",
+    "_name": "_bc8f398c"
+  },
+  {
+    "name": "about___en",
+    "path": "/en/about",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_16082354"
+  },
+  {
+    "name": "contacts___en",
+    "path": "/en/contacts",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\contacts\\\\index.vue",
+    "chunkName": "pages/contacts/index",
+    "_name": "_56f4a604"
+  },
+  {
+    "name": "form___en",
+    "path": "/en/form",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\form\\\\index.vue",
+    "chunkName": "pages/form/index",
+    "_name": "_53428926"
+  },
+  {
+    "name": "news___en",
+    "path": "/en/news",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index",
+    "_name": "_ad6da404"
+  },
+  {
+    "name": "research___en",
+    "path": "/en/research",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\research\\\\index.vue",
+    "chunkName": "pages/research/index",
+    "_name": "_bf85a294"
+  },
+  {
+    "name": "life-academicCalendar___uz",
+    "path": "/life/academicCalendar",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\life\\\\academicCalendar\\\\index.vue",
+    "chunkName": "pages/life/academicCalendar/index",
+    "_name": "_38fca770"
+  },
+  {
+    "name": "life-clubs___uz",
+    "path": "/life/clubs",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\life\\\\clubs\\\\index.vue",
+    "chunkName": "pages/life/clubs/index",
+    "_name": "_4015e622"
+  },
+  {
+    "name": "life-gym___uz",
+    "path": "/life/gym",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\life\\\\gym\\\\index.vue",
+    "chunkName": "pages/life/gym/index",
+    "_name": "_657b6564"
+  },
+  {
+    "name": "life-library___uz",
+    "path": "/life/library",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\life\\\\library\\\\index.vue",
+    "chunkName": "pages/life/library/index",
+    "_name": "_1d4d4038"
+  },
+  {
+    "name": "life-studentConsole___uz",
+    "path": "/life/studentConsole",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\life\\\\studentConsole\\\\index.vue",
+    "chunkName": "pages/life/studentConsole/index",
+    "_name": "_61c26899"
+  },
+  {
+    "name": "reception-entryRequirements___uz",
+    "path": "/reception/entryRequirements",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\reception\\\\entryRequirements\\\\index.vue",
+    "chunkName": "pages/reception/entryRequirements/index",
+    "_name": "_03d0245e"
+  },
+  {
+    "name": "reception-internationalStudents___uz",
+    "path": "/reception/internationalStudents",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\reception\\\\internationalStudents\\\\index.vue",
+    "chunkName": "pages/reception/internationalStudents/index",
+    "_name": "_78734eba"
+  },
+  {
+    "name": "reception-transfer___uz",
+    "path": "/reception/transfer",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\reception\\\\transfer\\\\index.vue",
+    "chunkName": "pages/reception/transfer/index",
+    "_name": "_16620089"
+  },
+  {
+    "name": "reception-tuitionFee___uz",
+    "path": "/reception/tuitionFee",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\reception\\\\tuitionFee\\\\index.vue",
+    "chunkName": "pages/reception/tuitionFee/index",
+    "_name": "_d268106c"
+  },
+  {
+    "name": "about___ru",
+    "path": "/ru/about",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_16082354"
+  },
+  {
+    "name": "contacts___ru",
+    "path": "/ru/contacts",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\contacts\\\\index.vue",
+    "chunkName": "pages/contacts/index",
+    "_name": "_56f4a604"
+  },
+  {
+    "name": "form___ru",
+    "path": "/ru/form",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\form\\\\index.vue",
+    "chunkName": "pages/form/index",
+    "_name": "_53428926"
+  },
+  {
+    "name": "news___ru",
+    "path": "/ru/news",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index",
+    "_name": "_ad6da404"
+  },
+  {
+    "name": "research___ru",
+    "path": "/ru/research",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\research\\\\index.vue",
+    "chunkName": "pages/research/index",
+    "_name": "_bf85a294"
+  },
+  {
+    "name": "academic-ourPrograms-economy___uz",
+    "path": "/academic/ourPrograms/economy",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\academic\\\\ourPrograms\\\\economy\\\\index.vue",
+    "chunkName": "pages/academic/ourPrograms/economy/index",
+    "_name": "_4b0c6527"
+  },
+  {
+    "name": "academic-ourPrograms-it___uz",
+    "path": "/academic/ourPrograms/it",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\academic\\\\ourPrograms\\\\it\\\\index.vue",
+    "chunkName": "pages/academic/ourPrograms/it/index",
+    "_name": "_84469e78"
+  },
+  {
+    "name": "about-mission___en",
+    "path": "/en/about/mission",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\mission\\\\index.vue",
+    "chunkName": "pages/about/mission/index",
+    "_name": "_32593372"
+  },
+  {
+    "name": "about-partners___en",
+    "path": "/en/about/partners",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\partners\\\\index.vue",
+    "chunkName": "pages/about/partners/index",
+    "_name": "_8fbdd36a"
+  },
+  {
+    "name": "about-policies___en",
+    "path": "/en/about/policies",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\policies\\\\index.vue",
+    "chunkName": "pages/about/policies/index",
+    "_name": "_713df886"
+  },
+  {
+    "name": "about-rector___en",
+    "path": "/en/about/rector",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\rector\\\\index.vue",
+    "chunkName": "pages/about/rector/index",
+    "_name": "_012275af"
+  },
+  {
+    "name": "about-structure___en",
+    "path": "/en/about/structure",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\structure\\\\index.vue",
+    "chunkName": "pages/about/structure/index",
+    "_name": "_d30667aa"
+  },
+  {
+    "name": "about-team___en",
+    "path": "/en/about/team",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\team\\\\index.vue",
+    "chunkName": "pages/about/team/index",
+    "_name": "_12fe794e"
+  },
+  {
+    "name": "academic-faculties___en",
+    "path": "/en/academic/faculties",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\academic\\\\faculties\\\\index.vue",
+    "chunkName": "pages/academic/faculties/index",
+    "_name": "_5d44c370"
+  },
+  {
+    "name": "contacts-contact___en",
+    "path": "/en/contacts/contact",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\contacts\\\\contact\\\\index.vue",
+    "chunkName": "pages/contacts/contact/index",
+    "_name": "_af0daa94"
+  },
+  {
+    "name": "contacts-form___en",
+    "path": "/en/contacts/form",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\contacts\\\\form\\\\index.vue",
+    "chunkName": "pages/contacts/form/index",
+    "_name": "_bc8f398c"
+  },
+  {
+    "name": "life-academicCalendar___en",
+    "path": "/en/life/academicCalendar",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\life\\\\academicCalendar\\\\index.vue",
+    "chunkName": "pages/life/academicCalendar/index",
+    "_name": "_38fca770"
+  },
+  {
+    "name": "life-clubs___en",
+    "path": "/en/life/clubs",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\life\\\\clubs\\\\index.vue",
+    "chunkName": "pages/life/clubs/index",
+    "_name": "_4015e622"
+  },
+  {
+    "name": "life-gym___en",
+    "path": "/en/life/gym",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\life\\\\gym\\\\index.vue",
+    "chunkName": "pages/life/gym/index",
+    "_name": "_657b6564"
+  },
+  {
+    "name": "life-library___en",
+    "path": "/en/life/library",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\life\\\\library\\\\index.vue",
+    "chunkName": "pages/life/library/index",
+    "_name": "_1d4d4038"
+  },
+  {
+    "name": "life-studentConsole___en",
+    "path": "/en/life/studentConsole",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\life\\\\studentConsole\\\\index.vue",
+    "chunkName": "pages/life/studentConsole/index",
+    "_name": "_61c26899"
+  },
+  {
+    "name": "reception-entryRequirements___en",
+    "path": "/en/reception/entryRequirements",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\reception\\\\entryRequirements\\\\index.vue",
+    "chunkName": "pages/reception/entryRequirements/index",
+    "_name": "_03d0245e"
+  },
+  {
+    "name": "reception-internationalStudents___en",
+    "path": "/en/reception/internationalStudents",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\reception\\\\internationalStudents\\\\index.vue",
+    "chunkName": "pages/reception/internationalStudents/index",
+    "_name": "_78734eba"
+  },
+  {
+    "name": "reception-transfer___en",
+    "path": "/en/reception/transfer",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\reception\\\\transfer\\\\index.vue",
+    "chunkName": "pages/reception/transfer/index",
+    "_name": "_16620089"
+  },
+  {
+    "name": "reception-tuitionFee___en",
+    "path": "/en/reception/tuitionFee",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\reception\\\\tuitionFee\\\\index.vue",
+    "chunkName": "pages/reception/tuitionFee/index",
+    "_name": "_d268106c"
+  },
+  {
+    "name": "reception-localStudents-extramuralStudies___uz",
+    "path": "/reception/localStudents/extramuralStudies",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\reception\\\\localStudents\\\\extramuralStudies\\\\index.vue",
+    "chunkName": "pages/reception/localStudents/extramuralStudies/index",
+    "_name": "_d0045916"
+  },
+  {
+    "name": "reception-localStudents-fulltimeStudents___uz",
+    "path": "/reception/localStudents/fulltimeStudents",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\reception\\\\localStudents\\\\fulltimeStudents\\\\index.vue",
+    "chunkName": "pages/reception/localStudents/fulltimeStudents/index",
+    "_name": "_2334d269"
+  },
+  {
+    "name": "about-mission___ru",
+    "path": "/ru/about/mission",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\mission\\\\index.vue",
+    "chunkName": "pages/about/mission/index",
+    "_name": "_32593372"
+  },
+  {
+    "name": "about-partners___ru",
+    "path": "/ru/about/partners",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\partners\\\\index.vue",
+    "chunkName": "pages/about/partners/index",
+    "_name": "_8fbdd36a"
+  },
+  {
+    "name": "about-policies___ru",
+    "path": "/ru/about/policies",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\policies\\\\index.vue",
+    "chunkName": "pages/about/policies/index",
+    "_name": "_713df886"
+  },
+  {
+    "name": "about-rector___ru",
+    "path": "/ru/about/rector",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\rector\\\\index.vue",
+    "chunkName": "pages/about/rector/index",
+    "_name": "_012275af"
+  },
+  {
+    "name": "about-structure___ru",
+    "path": "/ru/about/structure",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\structure\\\\index.vue",
+    "chunkName": "pages/about/structure/index",
+    "_name": "_d30667aa"
+  },
+  {
+    "name": "about-team___ru",
+    "path": "/ru/about/team",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\team\\\\index.vue",
+    "chunkName": "pages/about/team/index",
+    "_name": "_12fe794e"
+  },
+  {
+    "name": "academic-faculties___ru",
+    "path": "/ru/academic/faculties",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\academic\\\\faculties\\\\index.vue",
+    "chunkName": "pages/academic/faculties/index",
+    "_name": "_5d44c370"
+  },
+  {
+    "name": "contacts-contact___ru",
+    "path": "/ru/contacts/contact",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\contacts\\\\contact\\\\index.vue",
+    "chunkName": "pages/contacts/contact/index",
+    "_name": "_af0daa94"
+  },
+  {
+    "name": "contacts-form___ru",
+    "path": "/ru/contacts/form",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\contacts\\\\form\\\\index.vue",
+    "chunkName": "pages/contacts/form/index",
+    "_name": "_bc8f398c"
+  },
+  {
+    "name": "life-academicCalendar___ru",
+    "path": "/ru/life/academicCalendar",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\life\\\\academicCalendar\\\\index.vue",
+    "chunkName": "pages/life/academicCalendar/index",
+    "_name": "_38fca770"
+  },
+  {
+    "name": "life-clubs___ru",
+    "path": "/ru/life/clubs",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\life\\\\clubs\\\\index.vue",
+    "chunkName": "pages/life/clubs/index",
+    "_name": "_4015e622"
+  },
+  {
+    "name": "life-gym___ru",
+    "path": "/ru/life/gym",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\life\\\\gym\\\\index.vue",
+    "chunkName": "pages/life/gym/index",
+    "_name": "_657b6564"
+  },
+  {
+    "name": "life-library___ru",
+    "path": "/ru/life/library",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\life\\\\library\\\\index.vue",
+    "chunkName": "pages/life/library/index",
+    "_name": "_1d4d4038"
+  },
+  {
+    "name": "life-studentConsole___ru",
+    "path": "/ru/life/studentConsole",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\life\\\\studentConsole\\\\index.vue",
+    "chunkName": "pages/life/studentConsole/index",
+    "_name": "_61c26899"
+  },
+  {
+    "name": "reception-entryRequirements___ru",
+    "path": "/ru/reception/entryRequirements",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\reception\\\\entryRequirements\\\\index.vue",
+    "chunkName": "pages/reception/entryRequirements/index",
+    "_name": "_03d0245e"
+  },
+  {
+    "name": "reception-internationalStudents___ru",
+    "path": "/ru/reception/internationalStudents",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\reception\\\\internationalStudents\\\\index.vue",
+    "chunkName": "pages/reception/internationalStudents/index",
+    "_name": "_78734eba"
+  },
+  {
+    "name": "reception-transfer___ru",
+    "path": "/ru/reception/transfer",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\reception\\\\transfer\\\\index.vue",
+    "chunkName": "pages/reception/transfer/index",
+    "_name": "_16620089"
+  },
+  {
+    "name": "reception-tuitionFee___ru",
+    "path": "/ru/reception/tuitionFee",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\reception\\\\tuitionFee\\\\index.vue",
+    "chunkName": "pages/reception/tuitionFee/index",
+    "_name": "_d268106c"
+  },
+  {
+    "name": "academic-ourPrograms-economy___en",
+    "path": "/en/academic/ourPrograms/economy",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\academic\\\\ourPrograms\\\\economy\\\\index.vue",
+    "chunkName": "pages/academic/ourPrograms/economy/index",
+    "_name": "_4b0c6527"
+  },
+  {
+    "name": "academic-ourPrograms-it___en",
+    "path": "/en/academic/ourPrograms/it",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\academic\\\\ourPrograms\\\\it\\\\index.vue",
+    "chunkName": "pages/academic/ourPrograms/it/index",
+    "_name": "_84469e78"
+  },
+  {
+    "name": "reception-localStudents-extramuralStudies___en",
+    "path": "/en/reception/localStudents/extramuralStudies",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\reception\\\\localStudents\\\\extramuralStudies\\\\index.vue",
+    "chunkName": "pages/reception/localStudents/extramuralStudies/index",
+    "_name": "_d0045916"
+  },
+  {
+    "name": "reception-localStudents-fulltimeStudents___en",
+    "path": "/en/reception/localStudents/fulltimeStudents",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\reception\\\\localStudents\\\\fulltimeStudents\\\\index.vue",
+    "chunkName": "pages/reception/localStudents/fulltimeStudents/index",
+    "_name": "_2334d269"
+  },
+  {
+    "name": "academic-ourPrograms-economy___ru",
+    "path": "/ru/academic/ourPrograms/economy",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\academic\\\\ourPrograms\\\\economy\\\\index.vue",
+    "chunkName": "pages/academic/ourPrograms/economy/index",
+    "_name": "_4b0c6527"
+  },
+  {
+    "name": "academic-ourPrograms-it___ru",
+    "path": "/ru/academic/ourPrograms/it",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\academic\\\\ourPrograms\\\\it\\\\index.vue",
+    "chunkName": "pages/academic/ourPrograms/it/index",
+    "_name": "_84469e78"
+  },
+  {
+    "name": "reception-localStudents-extramuralStudies___ru",
+    "path": "/ru/reception/localStudents/extramuralStudies",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\reception\\\\localStudents\\\\extramuralStudies\\\\index.vue",
+    "chunkName": "pages/reception/localStudents/extramuralStudies/index",
+    "_name": "_d0045916"
+  },
+  {
+    "name": "reception-localStudents-fulltimeStudents___ru",
+    "path": "/ru/reception/localStudents/fulltimeStudents",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\reception\\\\localStudents\\\\fulltimeStudents\\\\index.vue",
+    "chunkName": "pages/reception/localStudents/fulltimeStudents/index",
+    "_name": "_2334d269"
+  },
+  {
+    "name": "about-partners-slug___en",
+    "path": "/en/about/partners/:slug",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\partners\\\\_slug.vue",
+    "chunkName": "pages/about/partners/_slug",
+    "_name": "_932b15fa"
+  },
+  {
+    "name": "about-partners-slug___ru",
+    "path": "/ru/about/partners/:slug",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\partners\\\\_slug.vue",
+    "chunkName": "pages/about/partners/_slug",
+    "_name": "_932b15fa"
+  },
+  {
+    "name": "about-partners-slug___uz",
+    "path": "/about/partners/:slug",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\about\\\\partners\\\\_slug.vue",
+    "chunkName": "pages/about/partners/_slug",
+    "_name": "_932b15fa"
+  },
+  {
+    "name": "events-slug___en",
+    "path": "/en/events/:slug?",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\events\\\\_slug.vue",
+    "chunkName": "pages/events/_slug",
+    "_name": "_06f44e20"
+  },
+  {
+    "name": "news-slug___en",
+    "path": "/en/news/:slug",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\news\\\\_slug.vue",
+    "chunkName": "pages/news/_slug",
+    "_name": "_b0dae694"
+  },
+  {
+    "name": "static-slug___en",
+    "path": "/en/static/:slug?",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\static\\\\_slug.vue",
+    "chunkName": "pages/static/_slug",
+    "_name": "_6894970a"
+  },
+  {
+    "name": "events-slug___ru",
+    "path": "/ru/events/:slug?",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\events\\\\_slug.vue",
+    "chunkName": "pages/events/_slug",
+    "_name": "_06f44e20"
+  },
+  {
+    "name": "news-slug___ru",
+    "path": "/ru/news/:slug",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\news\\\\_slug.vue",
+    "chunkName": "pages/news/_slug",
+    "_name": "_b0dae694"
+  },
+  {
+    "name": "static-slug___ru",
+    "path": "/ru/static/:slug?",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\static\\\\_slug.vue",
+    "chunkName": "pages/static/_slug",
+    "_name": "_6894970a"
+  },
+  {
+    "name": "events-slug___uz",
+    "path": "/events/:slug?",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\events\\\\_slug.vue",
+    "chunkName": "pages/events/_slug",
+    "_name": "_06f44e20"
+  },
+  {
+    "name": "news-slug___uz",
+    "path": "/news/:slug",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\news\\\\_slug.vue",
+    "chunkName": "pages/news/_slug",
+    "_name": "_b0dae694"
+  },
+  {
+    "name": "static-slug___uz",
+    "path": "/static/:slug?",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\static\\\\_slug.vue",
+    "chunkName": "pages/static/_slug",
+    "_name": "_6894970a"
+  },
+  {
+    "name": "index___uz",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Oybek\\\\Desktop\\\\diplomat\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3a12e771"
+  }
+]

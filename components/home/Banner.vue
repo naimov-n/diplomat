@@ -160,7 +160,7 @@
                 </div>
                 <div>
                   <span>
-                    <h2>College Advisory</h2>
+                    <h2>New Git Hub</h2>
                     <p>
                       Pursue your education without financial worry. At Arizona,
                       you’ll find a variety of options from
@@ -170,12 +170,7 @@
               </div>
             </div>
           </div>
-          <!-- <div class="swiper-pagination swiper-pagination-bullets"></div> -->
-          <swiper class="swiper" :options="options">
-            <div class="swiper-button-prev" slot="button-prev"></div>
-            <div class="swiper-button-next" slot="button-next"></div>
-            <!-- <div class="swiper-pagination" slot="pagination"></div> -->
-          </swiper>
+       
         </div>      
       </div>
     </div>
